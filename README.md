@@ -15,7 +15,7 @@ Aplicativo mobile de previsão do tempo desenvolvido com React Native e Expo.
 ---
 ## 📋 Proposta e Escopo
 
-O **Tempo Agora** permite que o usuário consulte as condições climáticas atuais e a previsão dos próximos 5 dias de qualquer cidade do mundo. O app foi desenvolvido como trabalho prático da disciplina de Tópicos Especiais, sob orientação do Prof. Melky, com foco na aplicação de boas práticas de arquitetura React Native.
+O **Tempo Agora** permite que o usuário consulte as condições climáticas atuais e a previsão dos próximos 5 dias de qualquer cidade do mundo. O app foi desenvolvido como trabalho bimestral 2, da disciplina de Tópicos Especiais, sob orientação do Prof. Melky, com foco na aplicação de boas práticas de arquitetura React Native.
 
 **Público-alvo:** Usuários que precisam consultar o clima de forma rápida e intuitiva, sem cadastro ou complexidade.
 
