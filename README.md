@@ -118,4 +118,4 @@ TempoAgora/
 
 ---
 
-💻 Desenvolvido por Gabriel | José Carlos | Kátia - Atividade Bimestral.
+💻 Desenvolvido por Gabriel | José Carlos | Kátia - Atividade Bimestral 2.
